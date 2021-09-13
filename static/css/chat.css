@@ -52,6 +52,7 @@ body {
   z-index: 1;
 }
 .chat-title {
+  color:white;
   padding: 1px 106px;
 }
 .outer-container {
